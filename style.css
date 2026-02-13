@@ -1,0 +1,10 @@
+img { 
+  width: 700px; 
+}
+body {
+  text-align: center;
+  font-family: 'Times New Romans';
+  font-size: 4ch;
+  background: rgb(192, 191, 200);
+  color: rgb(9, 45, 111);
+}
